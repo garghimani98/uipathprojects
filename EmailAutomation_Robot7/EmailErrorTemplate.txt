@@ -1,0 +1,9 @@
+Hi,
+
+Unusual activity has been deetected on system at {0}
+
+Error:
+{1}
+
+Regards,
+Email Automation Robot

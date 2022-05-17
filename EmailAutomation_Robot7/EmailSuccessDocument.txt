@@ -1,0 +1,13 @@
+Hi Human,
+
+
+
+Your  email automation robot has successfully completed at {0}
+
+The followinge emails were saved to your machines-
+
+
+{1}
+
+Regards,
+Email Automation Robot
